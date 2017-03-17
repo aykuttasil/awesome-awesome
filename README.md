@@ -8,6 +8,10 @@
 
   * [Machine Learning Mastery](http://machinelearningmastery.com/) 
   **Machine Learning ile ilgili dersler, kullanılan diller vs. ile ilgili bilgiler edinebilirsiniz.**
+
+  ---
+
+  
   
 
   
