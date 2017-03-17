@@ -32,7 +32,7 @@
 ## Useful Links
 
   * [RoadMap](https://github.com/kamranahmedse/developer-roadmap)
-    - Yazılım geliştirmek için nereden başlamalıyım ve hangi teknolofi/dilleri öğrenmeliyim?
+    - Yazılım geliştirmek için nereden başlamalıyım ve hangi teknoloji/dilleri öğrenmeliyim?
 
 ---
 
