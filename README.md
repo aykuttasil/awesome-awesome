@@ -20,7 +20,7 @@
 
   ---
 
-## Useful Information
+## Useful Informations
 
   * [System Design Primer](https://github.com/donnemartin/system-design-primer)
     - Sistemler nasıl tasarlanır?
@@ -28,6 +28,14 @@
     - Büyük ölçekli uygulamalar nasıl hazırlanır?
 
   ---
+
+## Useful Links
+
+  * [RoadMap](https://github.com/kamranahmedse/developer-roadmap)
+    - Yazılım geliştirmek için nereden başlamalıyım ve hangi teknolofi/dilleri öğrenmeliyim?
+
+---
+
 
 
 
