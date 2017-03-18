@@ -18,6 +18,10 @@
     - Machine Learning 
     - Veri setleri ile eğitim nasıl yapılır?
 
+* [Datasets](https://github.com/caesar0301/awesome-public-datasets) 
+    - Ücretsiz bir şekilde birçok veri setine ulaşabileceğiniz kaynakları bulabilirsiniz.
+    
+
 ---
 
 ## Useful Informations
