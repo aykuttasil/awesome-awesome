@@ -18,7 +18,7 @@
     - Machine Learning 
     - Veri setleri ile eğitim nasıl yapılır?
 
-  ---
+---
 
 ## Useful Informations
 
@@ -27,18 +27,21 @@
     - Uygulamaların çalışma mantığı nedir?
     - Büyük ölçekli uygulamalar nasıl hazırlanır?
 
-  ---
+---
 
 ## Useful Links
 
-  * [RoadMap](https://github.com/kamranahmedse/developer-roadmap)
+* [RoadMap](https://github.com/kamranahmedse/developer-roadmap)
     - Yazılım geliştirmek için nereden başlamalıyım ve hangi teknoloji/dilleri öğrenmeliyim?
+
+* [Learn X in Y minutes](https://learnxinyminutes.com/)
+    - Herhangi bir dilin temel syntax bilgisini öğrenebilirsiniz.
 
 ---
 
 
 
-
+https://learnxinyminutes.com/
   
 
   
