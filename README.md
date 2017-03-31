@@ -1,13 +1,72 @@
-## Android
-### Source
+>## Android
+
+>>### Source
 ---
+
 * [Material-Animations](https://github.com/lgvalle/Material-Animations)
     - Activity transition nasıl yapılır ?
     - Fragment transition nasıl yapılır ?
 
-### Libs
+>>### Libs
 
----
+>>> ### Util
+
+* [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere)
+    - View transition
+
+* [AppUpdater](https://github.com/javiersantos/AppUpdater)
+    - Uygulama versiyon kontrol
+
+* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
+    - Utils
+
+* [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo)
+    - Utils
+
+* [RxJava](https://github.com/ReactiveX/RxJava)
+    - RxJava
+
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid)
+    - RxAndroid
+    
+* [RxBinding](https://github.com/JakeWharton/RxBinding)
+    - RxJava view kontrol
+
+* [RxPermissions](https://github.com/tbruyelle/RxPermissions)
+    - Permission kontrol    
+
+* [Logger](https://github.com/orhanobut/logger)
+    - Log
+
+* [AndroidAnnotations](https://github.com/androidannotations/androidannotations)
+    - Android Annotations 
+
+* [TrueTime-Android](https://github.com/instacart/truetime-android)
+    - Android time kontrol
+    
+* [AndroidAnnotations](https://github.com/androidannotations/androidannotations)
+    - Android Annotations     
+
+* [Material-Dialogs](https://github.com/afollestad/material-dialogs)
+    - Android Dialogs     
+
+* [Stetho](https://github.com/facebook/stetho)
+    - Android Debug kontrol    
+
+* [EventBus](https://github.com/greenrobot/EventBus)
+    - EventBus  
+
+* [Gradle-RetroLamnda](https://github.com/evant/gradle-retrolambda)
+    - Android Java 8 Compatibility  
+
+* [Glide](https://github.com/bumptech/glide)
+    - Android image kontrol  
+
+* [Glide Transformations](https://github.com/wasabeef/glide-transformations)
+    - Glide image transformation  
+ 
+
+>>>#### UI
 
 * [AppIntro](https://github.com/apl-devs/AppIntro)
     - Tanıtım sayfası
@@ -21,8 +80,8 @@
 * [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)
     - ViewPager transforms    
 
-* [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere)
-    - View transition
+* [Diagonalify](https://github.com/developer-shivam/Diagonalify)
+    - Diagonal Image 
 
 * [Android-SpinKit](https://github.com/ybq/Android-SpinKit)
     - Loading view
@@ -30,37 +89,12 @@
 * [NavigationTabBar](https://github.com/Devlight/NavigationTabBar)
     - NavigationTabBar
 
-* [AppUpdater](https://github.com/javiersantos/AppUpdater)
-    - Uygulama versiyon kontrol
-
-* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
-    - Utils
-
-* [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo)
-    - Utils
-
-* [RxPermissions](https://github.com/tbruyelle/RxPermissions)
-    - Permission kontrol
-
-* [RxBinding](https://github.com/JakeWharton/RxBinding)
-    - Rx ile view kontrol
-
-* [Logger](https://github.com/orhanobut/logger)
-    - Log
-
-* [AndroidAnnotations](https://github.com/androidannotations/androidannotations)
-    - Android Annotations 
-
-* [TrueTime-Android](https://github.com/instacart/truetime-android)
-    - Android time kontrol
-    
-* [AndroidAnnotations](https://github.com/androidannotations/androidannotations)
-    - Android Annotations     
-   
+* [PhotoView](https://github.com/chrisbanes/PhotoView)
+    - Image zoom kontrol      
 ---
      
 
-## Statistics - Machine Learning - Deep Learning - NLP
+>## Statistics - Machine Learning - Deep Learning - NLP
   
 * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures) 
     - Doğal dil işleme (NLP) nedir?
@@ -86,7 +120,7 @@
 
 ---
 
-## Useful Informations
+>## Useful Informations
 
   * [System Design Primer](https://github.com/donnemartin/system-design-primer)
     - Sistemler nasıl tasarlanır?
@@ -95,7 +129,7 @@
 
 ---
 
-## Useful Links
+>## Useful Links
 
 * [RoadMap](https://github.com/kamranahmedse/developer-roadmap)
     - Yazılım geliştirmek için nereden başlamalıyım ve hangi teknoloji/dilleri öğrenmeliyim?
