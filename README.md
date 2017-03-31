@@ -1,7 +1,6 @@
 >## Android
 
 >>### Source
----
 
 * [Material-Animations](https://github.com/lgvalle/Material-Animations)
     - Activity transition nasıl yapılır ?
@@ -65,6 +64,15 @@
 * [Glide Transformations](https://github.com/wasabeef/glide-transformations)
     - Glide image transformation  
  
+* [Barcode Scanner](https://github.com/dm77/barcodescanner)
+    - Barcode Scanner
+
+* [Mosby](https://github.com/sockeqwe/mosby)
+    - Android MVP
+    ![Mosby](http://hannesdorfmann.com/mosby/images/mvp-workflow.png) 
+
+* [Scribe Java](https://github.com/scribejava/scribejava)
+    - Android OAuth
 
 >>>#### UI
 
@@ -80,8 +88,8 @@
 * [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)
     - ViewPager transforms    
 
-* [Diagonalify](https://github.com/developer-shivam/Diagonalify)
-    - Diagonal Image 
+* [DiagonalLayout](https://github.com/florent37/DiagonalLayout)
+    - Diagonal Layout 
 
 * [Android-SpinKit](https://github.com/ybq/Android-SpinKit)
     - Loading view
@@ -91,6 +99,10 @@
 
 * [PhotoView](https://github.com/chrisbanes/PhotoView)
     - Image zoom kontrol      
+
+* [SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav)
+    - Sliding Navigation    
+     ![SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav/raw/master/art/sample.gif)  
 ---
      
 
@@ -120,22 +132,23 @@
 
 ---
 
->## Useful Informations
+>## Useful Links
 
-  * [System Design Primer](https://github.com/donnemartin/system-design-primer)
+ * [System Design Primer](https://github.com/donnemartin/system-design-primer)
     - Sistemler nasıl tasarlanır?
     - Uygulamaların çalışma mantığı nedir?
     - Büyük ölçekli uygulamalar nasıl hazırlanır?
 
----
-
->## Useful Links
 
 * [RoadMap](https://github.com/kamranahmedse/developer-roadmap)
     - Yazılım geliştirmek için nereden başlamalıyım ve hangi teknoloji/dilleri öğrenmeliyim?
 
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
     - Herhangi bir dilin temel syntax bilgisini öğrenebilirsiniz.
+
+* [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+    - Markdown-Cheatsheet 
+  
 
 ---
 
