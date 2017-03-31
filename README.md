@@ -1,3 +1,65 @@
+## Android
+### Source
+---
+* [Material-Animations](https://github.com/lgvalle/Material-Animations)
+    - Activity transition nasıl yapılır ?
+    - Fragment transition nasıl yapılır ?
+
+### Libs
+
+---
+
+* [AppIntro](https://github.com/apl-devs/AppIntro)
+    - Tanıtım sayfası
+
+* [TapTargetView](https://github.com/KeepSafe/TapTargetView )
+    - Sayfa tanıtımı  
+
+* [PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView)
+    - ViewPager indicator
+
+* [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms)
+    - ViewPager transforms    
+
+* [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere)
+    - View transition
+
+* [Android-SpinKit](https://github.com/ybq/Android-SpinKit)
+    - Loading view
+
+* [NavigationTabBar](https://github.com/Devlight/NavigationTabBar)
+    - NavigationTabBar
+
+* [AppUpdater](https://github.com/javiersantos/AppUpdater)
+    - Uygulama versiyon kontrol
+
+* [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
+    - Utils
+
+* [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo)
+    - Utils
+
+* [RxPermissions](https://github.com/tbruyelle/RxPermissions)
+    - Permission kontrol
+
+* [RxBinding](https://github.com/JakeWharton/RxBinding)
+    - Rx ile view kontrol
+
+* [Logger](https://github.com/orhanobut/logger)
+    - Log
+
+* [AndroidAnnotations](https://github.com/androidannotations/androidannotations)
+    - Android Annotations 
+
+* [TrueTime-Android](https://github.com/instacart/truetime-android)
+    - Android time kontrol
+    
+* [AndroidAnnotations](https://github.com/androidannotations/androidannotations)
+    - Android Annotations     
+   
+---
+     
+
 ## Statistics - Machine Learning - Deep Learning - NLP
   
 * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures) 
@@ -43,9 +105,6 @@
 
 ---
 
-
-
-https://learnxinyminutes.com/
   
 
   
