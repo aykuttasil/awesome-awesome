@@ -103,6 +103,11 @@
 * [SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav)
     - Sliding Navigation    
      ![SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav/raw/master/art/sample.gif)  
+
+* [LolliPin](https://github.com/OrangeGangsters/LolliPin)
+    - Pin Login   
+     ![LolliPin](https://github.com/OrangeGangsters/LolliPin/raw/master/app/src/main/res/raw/github_gif.gif)  
+     
 ---
      
 
