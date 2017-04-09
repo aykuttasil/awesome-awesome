@@ -111,6 +111,13 @@
 ---
      
 
+>## Javascript
+* [Mousetrap](https://github.com/ccampbell/mousetrap   ) 
+    - Klavye kısayolu oluşturabilirsiniz.
+
+---
+  
+
 >## Statistics - Machine Learning - Deep Learning - NLP
   
 * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures) 
@@ -157,9 +164,13 @@
 
 ---
 
+>## Useful Sites
+* [Codrops](https://tympanus.net/codrops/)
+    - Çok farklı tasarımlara sahip toollar ile websitenizi modern görünüme kavuştarabilirsiniz.
+    - Slider,input vb.
+
   
 
   
 
  
-
