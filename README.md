@@ -69,7 +69,7 @@
 
 * [Mosby](https://github.com/sockeqwe/mosby)
     - Android MVP
-    ![Mosby](http://hannesdorfmann.com/mosby/images/mvp-workflow.png) 
+    - ![Mosby](http://hannesdorfmann.com/mosby/images/mvp-workflow.png) 
 
 * [Scribe Java](https://github.com/scribejava/scribejava)
     - Android OAuth
@@ -102,12 +102,17 @@
 
 * [SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav)
     - Sliding Navigation    
-     ![SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav/raw/master/art/sample.gif)  
+    - ![SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav/raw/master/art/sample.gif)  
 
 * [LolliPin](https://github.com/OrangeGangsters/LolliPin)
     - Pin Login   
-     ![LolliPin](https://github.com/OrangeGangsters/LolliPin/raw/master/app/src/main/res/raw/github_gif.gif)  
-     
+    - ![LolliPin](https://github.com/OrangeGangsters/LolliPin/raw/master/app/src/main/res/raw/github_gif.gif)  
+
+* [UltraViewPager](https://github.com/alibaba/UltraViewPager)
+    - Dahili indicator
+    - Infinite vb. ek özellikler  
+    - ![UltraViewPager](https://github.com/alibaba/UltraViewPager/raw/master/pics/pics4.gif)  
+       
 ---
      
 
@@ -168,6 +173,9 @@
 * [Codrops](https://tympanus.net/codrops/)
     - Çok farklı tasarımlara sahip toollar ile websitenizi modern görünüme kavuştarabilirsiniz.
     - Slider,input vb.
+
+
+    
 
   
 
