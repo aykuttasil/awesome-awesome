@@ -119,8 +119,11 @@
      
 
 >## Javascript
-* [Mousetrap](https://github.com/ccampbell/mousetrap   ) 
+* [Mousetrap](https://github.com/ccampbell/mousetrap) 
     - Klavye kısayolu oluşturabilirsiniz.
+
+* [Jimp](https://github.com/oliver-moran/jimp) 
+    - Resimleri hızlı ve kolay bir şekilde manipüle edebilirsiniz.
 
 ---
   
