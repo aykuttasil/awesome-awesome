@@ -115,6 +115,12 @@
     - Infinite vb. ek özellikler  
     - ![UltraViewPager](https://github.com/alibaba/UltraViewPager/raw/master/pics/pics4.gif)  
        
+* [CardSlider](https://github.com/Ramotion/cardslider-android)
+    - RecyclerView entegrasyonu ile card slide yapımı
+    - ![CardSlider](https://github.com/Ramotion/cardslider-android/raw/master/preview.gif)  
+       
+
+       
 ---
      
 
@@ -170,6 +176,11 @@
 
 * [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
     - Markdown-Cheatsheet 
+
+* [DeepStream IO](https://github.com/deepstreamIO/deepstream.io)
+    - Firebase benzeri sistem kurulumu
+    - Server ve client 
+    
   
 
 ---
