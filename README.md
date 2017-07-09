@@ -196,7 +196,8 @@
 * [Surge](http://surge.sh/)
     - Static web sayfası barındırma hizmeti
     - Free
-    -
+    
+    
     <iframe width="640" height="360" src="https://www.youtube.com/embed/-EjdMvYPSVU" frameborder="0" allowfullscreen></iframe>
 
 * [Gatsby](https://www.gatsbyjs.org/)
