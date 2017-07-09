@@ -196,8 +196,8 @@
 * [Surge](http://surge.sh/)
     - Static web sayfası barındırma hizmeti
     - Free
-    - {{< youtube -EjdMvYPSVU >}}
-    
+    - ![Surge](https://www.youtube.com/watch?v=-EjdMvYPSVU) 
+
 * [Gatsby](https://www.gatsbyjs.org/)
     - Blazing-fast static site generator for React
     - https://github.com/gatsbyjs/gatsby
