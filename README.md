@@ -197,7 +197,7 @@
     - Static web sayfası barındırma hizmeti
     - Free
     
-    
+
     <iframe width="640" height="360" src="https://www.youtube.com/embed/-EjdMvYPSVU" frameborder="0" allowfullscreen></iframe>
 
 * [Gatsby](https://www.gatsbyjs.org/)
@@ -205,8 +205,14 @@
     - https://github.com/gatsbyjs/gatsby
     - ![Gatsby](https://www.gatsbyjs.org/static/9a128a5a2429ea5dd16c7f7d2252adde-72ad0.png) 
 
-  
-
+* [Fastlane](https://fastlane.tools/)
+    - https://github.com/fastlane/fastlane
+    - fastlane is the tool to release your iOS and Android app. 
+    It handles all tedious tasks, like generating screenshots, dealing with code signing, and releasing your application.
+    - The easiest way to automate building and releasing your iOS and Android apps
+    - CI
+    - Ekran görüntüsü otomasyonu
+    - Google Play Store upload
   
 
  
