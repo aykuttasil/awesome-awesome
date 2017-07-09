@@ -190,7 +190,16 @@
     - Slider,input vb.
 
 
-    
+>## Useful Tools
+* [Surge](http://surge.sh/)
+    - Static web sayfası barındırma hizmeti
+    - Free
+    <iframe width="713" height="402" src="https://www.youtube.com/embed/-EjdMvYPSVU" frameborder="0" allowfullscreen></iframe>
+
+* [Gatsby](https://www.gatsbyjs.org/)
+    - Blazing-fast static site generator for React
+    - https://github.com/gatsbyjs/gatsby
+    - ![Gatsby](https://www.gatsbyjs.org/static/9a128a5a2429ea5dd16c7f7d2252adde-72ad0.png) 
 
   
 
