@@ -185,17 +185,19 @@
 ---
 
 >## Useful Sites
+
 * [Codrops](https://tympanus.net/codrops/)
     - Çok farklı tasarımlara sahip toollar ile websitenizi modern görünüme kavuştarabilirsiniz.
     - Slider,input vb.
 
+---
 
 >## Useful Tools
 * [Surge](http://surge.sh/)
     - Static web sayfası barındırma hizmeti
     - Free
-    <iframe width="713" height="402" src="https://www.youtube.com/embed/-EjdMvYPSVU" frameborder="0" allowfullscreen></iframe>
-
+    - {{< youtube -EjdMvYPSVU >}}
+    
 * [Gatsby](https://www.gatsbyjs.org/)
     - Blazing-fast static site generator for React
     - https://github.com/gatsbyjs/gatsby
