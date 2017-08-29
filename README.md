@@ -119,9 +119,13 @@
     - RecyclerView entegrasyonu ile card slide yapımı
     - ![CardSlider](https://github.com/Ramotion/cardslider-android/raw/master/preview.gif)  
        
+* [FoldingCell](https://github.com/Ramotion/folding-cell-android)
+    - ![FoldingCell](https://github.com/Ramotion/folding-cell-android/raw/master/folding_cell_preview.gif)  
+       
 
        
 ---
+     
      
 
 >## Javascript
@@ -156,7 +160,6 @@
 
 * [Datasets](https://github.com/caesar0301/awesome-public-datasets) 
     - Ücretsiz bir şekilde birçok veri setine ulaşabileceğiniz kaynakları bulabilirsiniz.
-    
 
 ---
 
