@@ -135,6 +135,10 @@
 * [Jimp](https://github.com/oliver-moran/jimp) 
     - Resimleri hızlı ve kolay bir şekilde manipüle edebilirsiniz.
 
+* [Modern Javascript CheatSheet](https://github.com/mbeaudru/modern-js-cheatsheet) 
+    - Modern javascript klavuzu.
+    - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+
 ---
   
 
