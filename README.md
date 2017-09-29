@@ -203,6 +203,18 @@
     - Teacher - Student akışı sayesinde çeşitli dersler düzenlenebilir
     - https://www.youtube.com/watch?time_continue=1&v=PYHW-1BlVgc
 
+* [Makeuseof](http://www.makeuseof.com/)
+    - Hemen hemen her türlü konuda bilgi bulabilirsiniz.
+    - Örnek Konular;
+        - Kendi makineni host olarak ayarlama
+        - Port forwarding nedir nasıl yapılır?
+        - En iyi x android belge tarayıcı uygulaması? 
+        - P2P nedir nasıl yapılır?
+        - vs.vs.vs
+
+* [File.Pizza](https://file.pizza/)
+    - P2P dosya paylaşımı
+
 
 
 ---
