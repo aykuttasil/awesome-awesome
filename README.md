@@ -8,6 +8,11 @@
 
 >>### Libs
 
+* [Chuck](https://github.com/jgilfelt/chuck)
+    - An in-app HTTP inspector for Android OkHttp clients
+    - Uygulamanın yaptığı requestleri görülebilir, hata olarak dönen responselar incelenebilir.
+
+
 >>> ### Util
 
 * [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere)
@@ -225,9 +230,11 @@
 * [Surge](http://surge.sh/)
     - Static web sayfası barındırma hizmeti
     - Free
-    
 
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/-EjdMvYPSVU" frameborder="0" allowfullscreen></iframe>
+* [Now](https://zeit.co/now)
+    - now allows you to take your JavaScript (Node.js) or Docker powered websites, applications and services to the cloud with ease,
+speed and reliability. In practical terms, any directory that contains a package.json or Dockerfile can be transported to the cloud with one command: now.
+    - NodeJs ile hazırlanmış proje hızlıca upload edilebilir ve kullanılmaya başlanabilir.
 
 * [Gatsby](https://www.gatsbyjs.org/)
     - Blazing-fast static site generator for React
