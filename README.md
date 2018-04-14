@@ -8,7 +8,7 @@
 ### Libs
 * [Chuck](https://github.com/jgilfelt/chuck)
     - An in-app HTTP inspector for Android OkHttp clients
-    - Uygulamanın yaptığı requestleri görülebilir, hata olarak dönen responselar incelenebilir.
+    - Uygulama içerisindeki rest istekleri (request-response) izlenir
 ### Util
 * [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere)
     - View transition
@@ -129,7 +129,7 @@
      
 
 
-## Javascript
+>## Javascript
 * [Mousetrap](https://github.com/ccampbell/mousetrap) 
     - Klavye kısayolu oluşturabilirsiniz.
 
