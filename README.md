@@ -1,15 +1,18 @@
->## Android
 
-### Source
+# Awesome List
+
+> Android
+
+#### Source
 * [Material-Animations](https://github.com/lgvalle/Material-Animations)
     - Activity transition nasıl yapılır ?
     - Fragment transition nasıl yapılır ?
 
-### Libs
+#### Libs
 * [Chuck](https://github.com/jgilfelt/chuck)
     - An in-app HTTP inspector for Android OkHttp clients
     - Uygulama içerisindeki rest istekleri (request-response) izlenir
-### Util
+#### Util
 * [Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere)
     - View transition
 
@@ -74,7 +77,7 @@
 * [Scribe Java](https://github.com/scribejava/scribejava)
     - Android OAuth
 
-### UI
+#### UI
 
 * [AppIntro](https://github.com/apl-devs/AppIntro)
     - Tanıtım sayfası
@@ -126,10 +129,9 @@
        
 ---
 ---
-     
 
+> Javascript
 
->## Javascript
 * [Mousetrap](https://github.com/ccampbell/mousetrap) 
     - Klavye kısayolu oluşturabilirsiniz.
 
@@ -143,8 +145,8 @@
 ---
 ---  
 
->## Statistics - Machine Learning - Deep Learning - NLP
-  
+> Statistics - Machine Learning - Deep Learning - NLP
+
 * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures) 
     - Doğal dil işleme (NLP) nedir?
     - Machine Learning nedir?
@@ -169,7 +171,7 @@
 ---
 ---
 
->## Useful Links
+> Useful Links
 
  * [System Design Primer](https://github.com/donnemartin/system-design-primer)
     - Sistemler nasıl tasarlanır?
@@ -193,7 +195,7 @@
   
 ---
 ---
->## Useful Sites
+> Useful Sites
 
 * [Codrops](https://tympanus.net/codrops/)
     - Çok farklı tasarımlara sahip toollar ile websitenizi modern görünüme kavuştarabilirsiniz.
@@ -221,7 +223,7 @@
 
 ---
 ---
->## Useful Tools
+> Useful Tools
 * [Surge](http://surge.sh/)
   - Static web sayfası barındırma hizmeti
   - Free
