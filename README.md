@@ -1,4 +1,3 @@
-
 # Awesome List
 
 > Android
@@ -121,9 +120,32 @@
        
 * [FoldingCell](https://github.com/Ramotion/folding-cell-android)
     - ![FoldingCell](https://github.com/Ramotion/folding-cell-android/raw/master/folding_cell_preview.gif)  
-       
 
-       
+* [CircularProgressIndicator](https://github.com/antonKozyriatskyi/CircularProgressIndicator)
+    - ![CircularProgressIndicator](https://github.com/antonKozyriatskyi/CircularProgressIndicator/raw/master/art/3_2.png)  
+
+* [State Layout](https://github.com/fingdo/stateLayout)
+    - https://github.com/lufficc/StateLayout
+    - ![stateLayout](https://github.com/fingdo/stateLayout/raw/master/gif/stateLayout.gif)  
+
+* [Country Picker Dialog](https://github.com/mukeshsolanki/country-picker-android)
+    - ![Country Picker Dialog](https://raw.githubusercontent.com/mukeshsolanki/country-picker-android/master/Screenshot_20160506-152951.png)  
+
+* [Popup Menu](https://github.com/skydoves/PowerMenu)
+    - ![Popup Menu](https://user-images.githubusercontent.com/24237865/32500436-c52b02ec-c418-11e7-8027-9aceb5cbe368.gif)  
+
+
+
+#### Rx
+
+* [Rx Download](https://github.com/ssseasonnn/RxDownload)
+    - Rx ile download 
+
+#### Kotlin
+
+* [Kotlin Extensions](https://github.com/android/android-ktx)
+    - Yardımcı kotlin extension fonksiyonları
+
 ---
 ---
 
@@ -141,6 +163,22 @@
 
 ---
 ---  
+
+
+---
+---
+
+> HTML & CSS
+
+* [Tabler](https://github.com/tabler/tabler) 
+    - Dashboard Panel
+    - ![Tabler](https://camo.githubusercontent.com/cd92edc2d8fa925325026c2f13dc827e6063d333/68747470733a2f2f7461626c65722e6769746875622e696f2f6173736574732f696d616765732f64617368626f6172642e706e67)    
+
+---
+--- 
+
+
+
 
 > Statistics - Machine Learning - Deep Learning - NLP
 
