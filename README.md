@@ -58,9 +58,6 @@
 * [EventBus](https://github.com/greenrobot/EventBus)
     - EventBus  
 
-* [Gradle-RetroLamnda](https://github.com/evant/gradle-retrolambda)
-    - Android Java 8 Compatibility  
-
 * [Glide](https://github.com/bumptech/glide)
     - Android image kontrol  
 
@@ -236,7 +233,6 @@ speed and reliability. In practical terms, any directory that contains a package
 * [Gatsby](https://www.gatsbyjs.org/)
     - Blazing-fast static site generator for React
     - https://github.com/gatsbyjs/gatsby
-    - ![Gatsby](https://www.gatsbyjs.org/static/9a128a5a2429ea5dd16c7f7d2252adde-72ad0.png) 
 
 * [Fastlane](https://fastlane.tools/)
     - https://github.com/fastlane/fastlane
