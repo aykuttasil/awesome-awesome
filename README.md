@@ -123,6 +123,8 @@
 
 * [CircularProgressIndicator](https://github.com/antonKozyriatskyi/CircularProgressIndicator)
     - ![CircularProgressIndicator](https://github.com/antonKozyriatskyi/CircularProgressIndicator/raw/master/art/3_2.png)  
+    - https://github.com/tankery/CircularSeekBar
+    - ![CircularProgressIndicator](https://github.com/tankery/CircularSeekBar/raw/master/art/capture.jpg)
 
 * [State Layout](https://github.com/fingdo/stateLayout)
     - https://github.com/lufficc/StateLayout
