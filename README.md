@@ -164,6 +164,12 @@
     - Modern javascript klavuzu.
     - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 
+* [Modern Javascript CheatSheet](https://quilljs.com/)
+    - https://github.com/quilljs/quill
+    - Editor
+
+
+
 ---
 ---  
 
@@ -284,5 +290,10 @@ speed and reliability. In practical terms, any directory that contains a package
     - Ekran görüntüsü otomasyonu
     - Google Play Store upload
   
+* [Find](https://www.internalpositioning.com/)
+    - https://github.com/schollz/find
+    - Indoor Positioning
+    - Wifi sinyallerini dinleyerek 1-2 metre hassasiyetine sahip indoor location bilgisi toplanır.
+
 
  
