@@ -216,6 +216,9 @@
 * [Datasets](https://github.com/caesar0301/awesome-public-datasets) 
     - Ücretsiz bir şekilde birçok veri setine ulaşabileceğiniz kaynakları bulabilirsiniz.
 
+* [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) 
+    - Makine öğrenmesini 100 başlık altında inceler
+
 ---
 ---
 
