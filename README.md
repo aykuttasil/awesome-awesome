@@ -241,9 +241,14 @@
 
 * [DeepStream IO](https://github.com/deepstreamIO/deepstream.io)
     - Firebase benzeri sistem kurulumu
-    - Server ve client 
-    
-  
+    - Server ve client
+
+* [A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+    - Tüm konular hakkında kaynaklar sunar
+    - Öğrenci özelinde ki indirimler, kampanyalar vs.
+    - Konferanslar
+
+
 ---
 ---
 > Useful Sites
